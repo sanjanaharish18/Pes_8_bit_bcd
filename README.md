@@ -393,7 +393,7 @@ The command to run routing is
 run_routing
 ```
 <p align="center">
-  <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/floorplansteps_2.jpg">
+  <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/runrouting.png">
 </p><br>
 
 <p align="center">
