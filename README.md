@@ -304,7 +304,7 @@ END LIBRARY
 
 ```
 
-### 7.5 Synthesis:
+### 7.3 Synthesis:
 Now, to run synthesis, type the following command
 ```
 run_synthesis
@@ -320,7 +320,7 @@ Here, we notice that our custom cell `sky130_vsdinv` is displayed in the netlist
 
 
 
-### 7.6 Floorplan & Placement
+### 7.4 Floorplan & Placement
 
 Also, sta report post synthesis can be viewed by going to the location `logs\synthesis\2-sta.log`
 
@@ -367,7 +367,7 @@ It can also be viewed in the pes_bcdc.def
   <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/compact.png">
 </p><br>
 
-### 7.7 Clock Tree Synthesis
+### 7.5 Clock Tree Synthesis
 
 The next step is to run run clock tree synthesis. The CTS run adds clock buffers in therefore buffer delays come into picture and our analysis from here on deals with real clocks. To run clock tree synthesis, type the following commands
 
@@ -386,7 +386,7 @@ run_cts
 
 
 
-### 7.8 Routing
+### 7.6 Routing
 The command to run routing is 
 ```
 run_routing
