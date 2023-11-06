@@ -400,6 +400,6 @@ run_routing
   <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/decap.jpg">
 </p><br>
 <p align="center">
-  <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/compact.jpg">
+  <img src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/compact.png">
 </p><br>
 
