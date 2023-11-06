@@ -55,6 +55,7 @@ gtkwave pes_bcdc.vcd
   <img width="800" height="200" src="https://github.com/sanjanaharish18/Pes_8_bit_bcd/blob/main/waveform.jpeg">
 </p><br>
 <br />
+
 ## 5. Synthesis
 
 ### 5.1 Softwares used
